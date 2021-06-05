@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# Club des développeurs informatiques de Tanger
 
-You can use the [editor on GitHub](https://github.com/club-dev-info/club-dev-info.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Vous voulez devenir un développeur informatique ou vous chercher à intégrer le de travail comme développeur informatique ou carrément vous voulez monter votre startup dans le domaine digital, si la réponse est oui, alors vous êtes dans le bon endroit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Notre objectif
 
-### Markdown
+L’objectif principale de notre club des développeurs informatique de Tanger est l'encadrement de ses membre de l'apprentissage de l'algorithme jusqu'à l'insertion professionnel comme développeur, freelance ou entrepreneur.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Nos missions
+pour atteindre notre objectif principale nous veillons à réaliser les missions suivant :
 
-```markdown
-Syntax highlighted code block
+- Orientation de nos membre vers le bon parcours de formation pour devenir développeur informatique.
+- Aider nos membre à développeurs leurs compétences que se soit "Soft Skills" ou "Hard Skills"
+- Aider nos membre dans la recherche des stages et travail
+- Aider nos membre entrepreneur dans leurs projet.
+ 
+## Nos tâches
 
-# Header 1
-## Header 2
-### Header 3
+### Orientation
+-	Création d’un réseaux entre les membres en utilisant **Discord**
+-	Invité les développeurs et les ancien membres de club pour partager leurs expériences
+  - Inviter les entrepreneurs pour partager leurs expériences avec nous.
+### Développement des compétences  
+- Définition et explication de soft skills les plus demandé par un les recruteurs
+- Développement de hard skills
+### Recherche de stage et emplois
+- Encadrement de la phase de recherche de stage 
+- Encadrement de la phase de recherche d'emplois
+- Partage des stages et offre d'emplois entre les membres de notre club.
+### Entreprenariat 
+- Encadrement de nos club pendant leur phase de création d'entreprise.
+  
+### Communication
+- la maintenance de notre site web;
+- la gestion de nos serveurs Discord;
+- la gestion de notre page facebook;
+- Enregistrement et partager des résumé de nos activités dans youtube et facebook
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Devenir membres
+toutes personne peut intégrer notre club même les gents qui n'habite pas à Tanger.
 
-**Bold** and _Italic_ and `Code` text
+## Comment ça marche 
+aprés botre inscription dans notre club, vous devez choisir votre niveau.
 
-[Link](url) and ![Image](src)
-```
+nous avons trois niveau 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Niveau Blanc
+C'est le niveau débutant qui n'a pas encore réaliser son première application ou site web.
 
-### Jekyll Themes
+### Niveau Vert
+C'est le niveau intermédiaire, il est convenable à un membre qui a au moins une réaliser (application ou site web) fonctionnelle et publié dans son compte sur GitHub.com
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/club-dev-info/club-dev-info.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Niveau Bleu
+C'est le niveau prêt à l'insertion professionnelle. il est convenable à un membre qui a déjà un portfolio contenue au moins deux réaliser ou projet.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Nos activités de formation
+
+### pour le Niveau Blanc : 
+-	Une séance des questions sur la formation : Algorithme avec Javascript.
+-	Une séance des questions sur la formation : Initiation au développement. Web ( HTML, CSS, Javascript)
+-	Une séances des questions sur la formation de Git et GitHub.
+-	Une séance de 2 heurs d'initiation à une technique de programmation ( PHP, ASP.NET Core, ...)
+
+### pour le niveau vert et bleu
+-	Auto-formation en groupe et partage de résultat et questions
+
+
+
+
+
