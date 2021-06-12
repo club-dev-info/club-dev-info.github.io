@@ -26,16 +26,19 @@ collections:
   technologies:
     output: true
     permalink: /technologies/:title/
+  authors:
+    output: true
+    permalink: /auteurs/:title/
 
 # Authors
-authors:
-  essarraj:
-    name: ESSARRAJ
-    display_name: Fouad
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: essarraj.fouad@gmail.com
-    web: https://www.essarrajfouad.com
-    description: "J'aide les étudiants, élèves ingénieur et stagiaires à développer leurs compétences en développement d’application."
+#authors:
+#  essarraj:
+#    name: ESSARRAJ
+#    display_name: ESSARRAJ Fouad
+#    gravatar: e1cd7eaea3fcf6c1e320fd9378713d4f
+#    email: essarraj.fouad@gmail.com
+#    web: https://www.essarrajfouad.com
+#    description: "J'aide les étudiants, élèves ingénieur et stagiaires à développer leurs compétences en développement d’application."
 
 # Plugins
 plugins:
