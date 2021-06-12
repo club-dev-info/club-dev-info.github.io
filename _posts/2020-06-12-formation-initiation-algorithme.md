@@ -1,7 +1,7 @@
 ---
 layout: post
 author : essarraj
-title:  "Formation initiation à la programmation"
+title:  "Formation initiation à l'algorithme et la programmation"
 categories: [ Formations,Activités, Saison 3, Algorithme ]
 tags: [programmation, algorithme, formation en ligne]
 image: assets/images/posts/formation-initiation-algorithme/titre.png
@@ -31,6 +31,11 @@ Dans notre formation **live**, en ligne et **gratuite** pour les membres du club
 
 ## Inscription à la formation
 
+Pour s'inscrire à la formation, il suffit de remplir le formulaire suivant : 
+
+[Formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSfC7u09SGBZVyExH6Dtol5VYruSLTAjlHrDkdDDtzFpbPDSRg/viewform)
+
+Nous allons vous envoyer un email content le lien de google meet au jour de la séance.
 
 
 ## Flayer
