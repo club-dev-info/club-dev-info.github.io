@@ -1,7 +1,7 @@
 # Club des développeurs informatiques de Tanger
 
 Vous voulez devenir un développeur informatique ou vous chercher à intégrer le marché de travail comme développeur informatique ou carrément vous voulez monter votre startup dans le domaine digital, si la réponse est oui, alors vous êtes dans le bon endroit.
-
+ 
 ## Notre objectif
 
 L’objectif principal de notre club des développeurs informatiques de Tanger est l'encadrement de ses membres de l'apprentissage de l'algorithme jusqu'à l'insertion professionnel comme développeur, freelance ou entrepreneur.
