@@ -34,7 +34,7 @@
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
                                 {% if post.author %}
-                                {% assign author = site.authors | where: "reference", page.author| first %}
+                                {% assign author = site.authors | where: "reference", post.author| first %}
                                 <span class="meta-footer-thumb">
                                 {% if author.avatar %}
                                 <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
