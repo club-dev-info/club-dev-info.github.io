@@ -2,7 +2,7 @@
 layout: post
 author : essarraj
 title:  "Lancement du club au centre SoliCode"
-categories: [ Rencontre, Saison 3 ]
+categories: [ Rencontre,Information,Saison 3 ]
 tags: [solicode, objectif]
 image: assets/images/posts/lancement-du-club-au-centre-solicode/membres.jpg
 description: "Lancement de club des développeurs informatique au centre solidaire digital SoliCode à Tanger"
