@@ -6,7 +6,6 @@ categories: [ Rencontre,Information,Saison 3 ]
 tags: [solicode, objectif]
 image: assets/images/posts/lancement-du-club-au-centre-solicode/membres.jpg
 description: "Lancement de club des développeurs informatique au centre solidaire digital SoliCode à Tanger"
-featured: true
 ---
 
 Nous somme heureux du lancement du club des développeurs informatique au centre centre solidaire digital SoliCode à Tanger le 04/06/2021.
