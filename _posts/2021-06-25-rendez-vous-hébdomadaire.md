@@ -1,7 +1,7 @@
 ---
 layout: post
 author : essarraj
-title:  "Rendez-vous hébdomadaire"
+title:  "Rendez-vous hebdomadaire"
 categories: [ Rencontre,Information,Saison 3 ]
 tags: [question,activité ]
 image: assets/images/posts/rendez-vous-hébdomadaire/rendez-vous.jpg
