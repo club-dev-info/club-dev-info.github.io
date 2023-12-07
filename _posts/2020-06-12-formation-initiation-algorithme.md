@@ -6,7 +6,7 @@ categories: [ Formations,Activités, Saison 3, Algorithme ]
 tags: [programmation, algorithme, formation en ligne]
 image: assets/images/posts/formation-initiation-algorithme/titre.png
 description: "Formation enligne et live disponible gratuitement pour les membres du club pour s'initialiser à la programmation et l'algorithme réalisera par le formateur ESSARRAJ Fouad "
-featured: true
+featured: false
 ---
 
 ## Qu'est ce qu'un algorithme ?
