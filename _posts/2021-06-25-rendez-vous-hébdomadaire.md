@@ -17,4 +17,4 @@ Le rencontre aura lieu à google meet.
 
 ## Comment demander un rendez-vous 
 
-vous pouvez demander le rendez-vous en nous contactons en utilisant les coordonnées proposées dans la page contact
+vous pouvez demander le rendez-vous en nous contactons en utilisant les coordonnées proposées dans la [page contact](/contact)
