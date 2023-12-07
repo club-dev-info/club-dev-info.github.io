@@ -6,16 +6,15 @@ categories: [ Rencontre,Information,Saison 3 ]
 tags: [question,activité ]
 image: assets/images/posts/rendez-vous-hébdomadaire/rendez-vous.jpg
 description: "Lancement de club des développeurs informatique au centre solidaire digital SoliCode à Tanger"
-featured: true
+featured: false
 ---
 
-Chaque semaine nous vous propose une rencontre d'échange et de motivation. L'objectif et de répondre au questions des membres et suivre l'avancement de nos activités.
+Chaque semaine vous pouvez demander un rendez-vous pour une rencontre d'échange et de motivation. L'objectif et de répondre au questions des membres et suivre l'avancement de nos activités.
 
-## Heure
+## Lieu de rencontre
 
-Le rencontre aura lieu à google meet chaque vendredi à 20:00 h ( Maroc ).
+Le rencontre aura lieu à google meet.
 
-## Lien de rencontre 
+## Comment demander un rendez-vous 
 
-[Lien google meet](https://meet.google.com/nrc-jemf-can)
-
+vous pouvez demander le rendez-vous en nous contactons en utilisant les coordonnées proposées dans la page contact
