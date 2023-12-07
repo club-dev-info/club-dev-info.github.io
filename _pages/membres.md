@@ -5,7 +5,8 @@ permalink: /membres
 comments: false
 ---
 # Membres de club
-Notre club a plus de 150 membres classé par trois niveaux
+
+Notre club informatique comprend plusieurs membres classés en trois niveaux
 
 ## Niveau Blanc
 
